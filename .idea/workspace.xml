@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d813bc17-98c5-4e80-ae45-ad100e8a4907" name="Default Changelist" comment="" />
+    <list default="true" id="d813bc17-98c5-4e80-ae45-ad100e8a4907" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/mytheme/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mytheme/css/my.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/mytheme/css/my.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mytheme/mytheme.info" beforeDir="false" afterPath="$PROJECT_DIR$/themes/mytheme/mytheme.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mytheme/page--front.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/themes/mytheme/page--front.tpl.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +20,9 @@
   <component name="DrupalConfiguration" enabled="true" version="7">
     <drupalPath>$PROJECT_DIR$</drupalPath>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hESaqCsF9XzZSoFwAvypeTvRzp" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
@@ -21,7 +31,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/themes/mytheme" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -32,6 +44,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
   </component>
   <component name="RecentsManager">
@@ -47,7 +60,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599574824612</updated>
-      <workItem from="1599574825687" duration="3220000" />
+      <workItem from="1599574825687" duration="3445000" />
+      <workItem from="1599632782211" duration="991000" />
     </task>
     <servers />
   </component>
@@ -75,9 +89,9 @@
       <screen x="1920" y="0" width="1920" height="1200" />
     </state>
     <state x="2782" y="326" width="196" height="553" key="ftp.server.browser/0.25.1680.1025/1920.0.1920.1200@1920.0.1920.1200" timestamp="1599575123995" />
-    <state x="2543" y="270" width="672" height="678" key="search.everywhere.popup" timestamp="1599577183187">
+    <state x="2543" y="270" width="672" height="678" key="search.everywhere.popup" timestamp="1599633604264">
       <screen x="1920" y="0" width="1920" height="1200" />
     </state>
-    <state x="2543" y="270" width="672" height="678" key="search.everywhere.popup/0.25.1680.1025/1920.0.1920.1200@1920.0.1920.1200" timestamp="1599577183187" />
+    <state x="2543" y="270" width="672" height="678" key="search.everywhere.popup/0.25.1680.1025/1920.0.1920.1200@1920.0.1920.1200" timestamp="1599633604264" />
   </component>
 </project>
